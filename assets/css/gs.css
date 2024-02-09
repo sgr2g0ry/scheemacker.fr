@@ -1,0 +1,26 @@
+.gs_red {
+	color: #db2c4b;
+}
+.gs_red_bold {
+	color: #db2c4b;
+	font-weight: bold;
+}
+.style1 a:hover {
+	color: #db2c4b;
+}
+a.credits {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+hr.menu {
+	margin: 0.5em 0em;
+	height: 1px;
+	border: 0 none;
+	background-color: #fff;
+}
+table.default td {
+	text-align: center;
+}
+table.default th {
+	text-align: center;
+}
