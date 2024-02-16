@@ -1,0 +1,542 @@
+{
+	"categories": [ "anecdote", "remarkable" ],
+	"countries": [
+		{
+			"code" : "AUSTRALIA",
+			"fr": "Australie",
+			"en": "Australia"
+		},
+		{
+			"code" : "BOTSWANA",
+			"fr": "Botwana",
+			"en": "Botwana"
+		},
+		{
+			"code" : "CANADA",
+			"fr": "Canada",
+			"en": "Canada"
+		},
+		{
+			"code" : "ECUADOR",
+			"fr": "Equateur",
+			"en": "Ecuador"
+		},
+		{
+			"code" : "ENGLAND",
+			"fr": "Angleterre",
+			"en": "England"
+		},
+		{
+			"code" : "FRANCE",
+			"fr": "France",
+			"en": "France"
+		},
+		{
+			"code" : "ICELAND",
+			"fr": "Islande",
+			"en": "Iceland"
+		},
+		{
+			"code" : "INDIA",
+			"fr": "Inde",
+			"en": "India"
+		},
+		{
+			"code" : "ITALY",
+			"fr": "Italie",
+			"en": "Italy"
+		},
+		{
+			"code" : "JAPAN",
+			"fr": "Japon",
+			"en": "Japan"
+		},
+		{
+			"code" : "KENYA",
+			"fr": "Kenya",
+			"en": "Kenya"
+		},
+		{
+			"code" : "MOROCCO",
+			"fr": "Maroc",
+			"en": "Morocco"
+		},
+		{
+			"code" : "NAMIBIA",
+			"fr": "Namibie",
+			"en": "Namibia"
+		},
+		{
+			"code" : "NEPAL",
+			"fr": "Népal",
+			"en": "Nepal"
+		},
+		{
+			"code" : "NETHERLANDS",
+			"fr": "Pays-Bas",
+			"en": "Netherlands"
+		},
+		{
+			"code" : "SOUTH AFRICA",
+			"fr": "Afrique du Sud",
+			"en": "South Africa"
+		},
+		{
+			"code" : "SPAIN",
+			"fr": "Espagne",
+			"en": "Spain"
+		},
+		{
+			"code" : "SWAZILAND",
+			"fr": "Swaziland",
+			"en": "Swaziland"
+		},
+		{
+			"code" : "TANZANIA",
+			"fr": "Tanzanie",
+			"en": "Tanzania"
+		},
+		{
+			"code" : "TIBET",
+			"fr": "Tibet",
+			"en": "Tibet"
+		},
+		{
+			"code" : "USA",
+			"fr": "Etats-Unis",
+			"en": "USA"
+		},
+		{
+			"code" : "ZIMBABWE",
+			"fr": "Zimbabwe",
+			"en": "Zimbabwe"
+		}
+	],
+	"areas": [
+		{
+			"code" : "ASIA",
+			"fr": "Asie",
+			"en": "Asia"
+		},
+		{
+			"code" : "AFRICA",
+			"fr": "Afrique",
+			"en": "Africa"
+		},
+		{
+			"code" : "SOUTH AMERICA",
+			"fr": "Amérique du Sud",
+			"en": "South America"
+		},
+		{
+			"code" : "NORTH AMERICA",
+			"fr": "Amérique du Nord",
+			"en": "North America"
+		},
+		{
+			"code" : "OCEANIA",
+			"fr": "Océanie",
+			"en": "Oceania"
+		},
+		{
+			"code" : "EUROPE",
+			"fr": "Europe",
+			"en": "Europe"
+		}
+	],
+	"trips": [
+		{
+			"code": "WORLDMAP",
+			"title_fr": "Carte du Monde",
+			"title_en": "World Map",
+			"countries": [],
+			"area": "WORLD",
+			"type": "GENERAL",
+			"main_img": "WORLDMAP.png",
+			"facts": [ "Reach 5600m altitude by hike", "Dive in the great coral reef", "Helicopter flight over the Victoria falls", "See the big five in Africa" ]
+		},
+		{
+			"code": "2023NOIMOUTIERS",
+			"year": 2023,
+			"month": 7,
+			"duration": 2,
+			"abroad": false,
+			"title_fr": "Noirmoutiers (France)",
+			"title_en": "Noirmoutiers (France)",
+			"countries": [ "FRANCE" ],
+			"area": "EUROPE",
+			"type": "TRAVEL",
+			"main_img": "2023NOIRMOUTIERS.jpg",
+			"places": [ "BARBATRE", "LA GUERINIERE", "L'HERBAUDIERE", "NOIMOUTIERS-EN-L'ILE", "PLAGE DES DAMES", "PASSAGE DU GOIS" ]
+		},
+		{
+			"code": "2022NOIMOUTIERS",
+			"year": 2022,
+			"month": 7,
+			"duration": 2,
+			"abroad": false,
+			"title_fr": "Noirmoutiers (France)",
+			"title_en": "Noirmoutiers (France)",
+			"countries": [ "FRANCE" ],
+			"area": "EUROPE",
+			"type": "TRAVEL",
+			"main_img": "2022NOIRMOUTIERS.jpg",
+			"places": [ "BARBATRE", "LA GUERINIERE", "L'HERBAUDIERE", "NOIMOUTIERS-EN-L'ILE", "PLAGE DES DAMES", "PASSAGE DU GOIS" ]
+		},
+		{
+			"code": "2022ARDENNES",
+			"year": 2022,
+			"month": 2,
+			"duration": 5,
+			"abroad": false,
+			"title_fr": "Ardennes (France)",
+			"title_en": "Ardennes (France)",
+			"countries": [ "FRANCE" ],
+			"area": "EUROPE",
+			"type": "BREAK",
+			"main_img": "2022ARDENNES.jpg",
+			"places": [ "CHARLEVILLE-MEZIERES", "SEDAN", "LAC DES VIELLES FORGES", "ROCROI", "MONTHERME" ],
+			"facts": [ "In 2022, the department of Ardennes delivers a 100€ reduction on your stay. Have a look at it's website." ]
+		},
+		{
+			"code": "2021LOIRE",
+			"year": 2021,
+			"month": 7,
+			"duration": 2,
+			"abroad": false,
+			"title_fr": "Loire (France)",
+			"title_en": "Loire (France)",
+			"countries": [ "FRANCE" ],
+			"area": "EUROPE",
+			"type": "TRAVEL",
+			"main_img": "2021LOIRE.jpg",
+			"places": [ "ARELAUNE-EN-SEINE", "BRISSAC-QUINCE", "MAULEVRIERS", "CHINON", "USSE" ],
+			"facts": [ "Terra Botanica", "Castles", "Bioparc Doué-la-fontaine" ]
+		},
+		{
+			"code": "2020SEINE",
+			"year": 2020,
+			"month": 7,
+			"duration": 7,
+			"abroad": false,
+			"title_fr": "Seine (France)",
+			"title_en": "Seine (France)",
+			"countries": [ "FRANCE" ],
+			"area": "EUROPE",
+			"type": "BREAK",
+			"main_img": "2020SEINE.jpg",
+			"places": [ "ARELAUNE-EN-SEINE", "CAUDEBEC-EN-CAUX", "JUMIEGES", "VIEUX-PORT" ]
+		},
+		{
+			"code": "2019SOMME",
+			"year": 2019,
+			"month": 7,
+			"duration": 7,
+			"abroad": false,
+			"title_fr": "Somme (France)",
+			"title_en": "Somme (France)",
+			"countries": [ "FRANCE" ],
+			"area": "EUROPE",
+			"type": "BREAK",
+			"places": [ "FORT-MAHON", "QUEND" ],
+			"main_img": "2019SOMME.jpg"
+		},
+		{
+			"code": "2018SPAIN",
+			"year": 2018,
+			"month": 5,
+			"duration": 2,
+			"abroad": true,
+			"title_fr": "Espagne",
+			"title_en": "Spain",
+			"countries": [ "SPAIN" ],
+			"area": "EUROPE",
+			"type": "TRAVEL",
+			"main_img": "2018SPAIN.jpg",
+			"places": [ "BLANES", "GIRONA", "TOSSA DE MAR" ]
+		},
+		{
+			"code": "2017BRITTANY",
+			"year": 2017,
+			"month": 9,
+			"duration": 2,
+			"abroad": false,
+			"title_fr": "Bretagne (France)",
+			"title_en": "Brittany (France)",
+			"countries": [ "FRANCE" ],
+			"area": "EUROPE",
+			"type": "TRAVEL",
+			"main_img": "2017BRITTANY.jpg",
+			"places": [ "CARNAC", "QUIBERON", "LANNION", "BREHAT" ]
+		},
+		{
+			"code": "2017AMSTERDAM",
+			"year": 2017,
+			"month": 6,
+			"duration": 7,
+			"abroad": true,
+			"title_fr": "Amsterdam (Netherlands)",
+			"title_en": "Amsterdam (Netherlands)",
+			"countries": [ "NETHERLANDS" ],
+			"area": "EUROPE",
+			"type": "BREAK",
+			"main_img": "2017AMSTERDAM.jpg",
+			"places": [ "AMSTERDAM" ],
+			"facts": [ "By walk" ]
+		},
+		{
+			"code": "2015USA",
+			"year": 2015,
+			"month": 4,
+			"duration": 3,
+			"abroad": true,
+			"title_fr": "USA Côte Ouest",
+			"title_en": "USA West Coast",
+			"countries": [ "USA" ],
+			"area": "NORTH AMERICA",
+			"type": "TRAVEL",
+			"main_img": "2015USA.jpg",
+			"places": [ "LAS VEGAS", "ZION NP", "BRYCE CANYON", "CAPITOL REEF NP", "ARCHES NP", "MONUMENT VALLEY", "GRAND CANYON NP", "DEATH VALLEY", "SEQUOI NP", "KINGS CANYON NP", "SAN FRANCISCO" ],
+			"facts": [ "Horseshoe Bend", "Alcatraz", "Bear, coyote" ]
+		},
+		{
+			"code": "2014JAPAN",
+			"year": 2014,
+			"month": 4,
+			"duration": 3,
+			"abroad": true,
+			"title_fr": "Japon",
+			"title_en": "Japan",
+			"countries": [ "JAPAN" ],
+			"area": "ASIA",
+			"type": "TRAVEL",
+			"main_img": "2014JAPAN.jpg",
+			"places": [ "KYOTO", "MIYAJIMA", "OSAKA", "NARA", "HIMEJI", "NIKKO", "TOKYO", "KAMAKURA", "HAKONE" ],
+			"facts": [ "By train with Japan Rail Pass" ]
+		},
+		{
+			"code": "2013CORSICA",
+			"year": 2013,
+			"month": 4,
+			"duration": 2,
+			"abroad": false,
+			"title_fr": "Corse (France)",
+			"title_en": "Corsica (France)",
+			"countries": [ "FRANCE" ],
+			"area": "EUROPE",
+			"type": "TRAVEL",
+			"main_img": "2013CORSICA.jpg",
+			"places": [ "AJACCIO", "CALVI", "BASTIA", "BONIFACIO" ]
+		},
+		{
+			"code": "2012ITALY",
+			"year": 2012,
+			"month": 9,
+			"duration": 3,
+			"abroad": true,
+			"title_fr": "Italie",
+			"title_en": "Italy",
+			"countries": [ "ITALY" ],
+			"area": "EUROPE",
+			"type": "TRAVEL",
+			"main_img": "2012ITALY.jpg",
+			"places": [ "ROME", "PISA", "FLORENCE", "CINQUE TERRE", "GENOA" ],
+			"facts": [ "Colosseum", "Vatican", "Sistine chapel"]
+		},
+		{
+			"code": "2012ICELAND",
+			"year": 2012,
+			"month": 6,
+			"duration": 2,
+			"abroad": true,
+			"title_fr": "Islande",
+			"title_en": "Iceland",
+			"countries": [ "ICELAND" ],
+			"area": "EUROPE",
+			"type": "TRAVEL",
+			"main_img": "2012ICELAND.jpg",
+			"places": [ "BLUE LAGOON", "GEYSIR", "THINGVELLIR", "MYVATN", "JOKULSARLON", "VIK", "HOFN", "SNAEFELLSJOKULL", "OLAFSVIK", "REYKJAVIK" ],
+			"facts": [ "Bath in blue lagoon", "Waterfalls", "Icebergs", "Fjords", "Glaciers"]
+		},
+		{
+			"code": "2012VENICE",
+			"year": 2012,
+			"month": 5,
+			"duration": 5,
+			"abroad": true,
+			"title_fr": "Venise (Italy)",
+			"title_en": "Venice (Italy)",
+			"countries": [ "ITALY" ],
+			"area": "EUROPE",
+			"type": "BREAK",
+			"main_img": "2012VENICE.jpg",
+			"places": [ "SAN MARCO SQUARE", "DOGE'S PLACE", "MURANO" ]
+		},
+		{
+			"code": "2012LONDON",
+			"year": 2012,
+			"month": 1,
+			"duration": 3,
+			"abroad": true,
+			"title_fr": "Londres (England)",
+			"title_en": "London (England)",
+			"countries": [ "ENGLAND" ],
+			"area": "EUROPE",
+			"type": "BREAK",
+			"main_img": "2012LONDON.jpg",
+			"places": [ "BRITISH MUSEUM", "LONDON TOWER", "HYDE PARK", "TOWER BRIDGE", "COVENT GARDEN" ],
+			"facts": [ "Eat hamburger at Byron restaurant"]
+		},
+		{
+			"code": "2011SOUTHAFRICA",
+			"year": 2011,
+			"month": 10,
+			"duration": 3,
+			"abroad": true,
+			"title_fr": "Afrique du Sud",
+			"title_en": "South Africa",
+			"countries": [ "SOUTH AFRICA", "SWAZILAND" ],
+			"area": "AFRICA",
+			"type": "TRAVEL",
+			"main_img": "2011SOUTHAFRICA.jpg",
+			"places": [ "CAP-TOWN", "SIMON'S TOWN", "HERMANUS", "DRAKENSBERG", "SAINT-LUCIA", "HLUHLUWE-UMFOLOZI PARK", "KRUGER NATIONAL PARK" ],
+			"facts": [ "Travel by car", "4 days in Kruger Park" ]
+		},
+		{
+			"code": "2010AUSTRALIA",
+			"year": 2010,
+			"month": 11,
+			"duration": 5,
+			"abroad": true,
+			"title_fr": "Australie",
+			"title_en": "Australia",
+			"countries": [ "AUSTRALIA" ],
+			"area": "OCEANIA",
+			"type": "TRAVEL",
+			"main_img": "2010AUSTRALIA.jpg",
+			"places": [ "DARWIN", "CAIRNS", "ULURU", "ADELAIDE", "MELBOURNE", "SYDNEY", "BRISBANE" ],
+			"facts": [ "Dive in the great coral reef", "3 weeks from Adelaide to Brisbane by camping-car" ]
+		},
+		{
+			"code": "2010CORSICA",
+			"year": 2010,
+			"month": 6,
+			"duration": 1,
+			"abroad": false,
+			"title_fr": "Corse (France)",
+			"title_en": "Corsica (France)",
+			"countries": [ "FRANCE" ],
+			"area": "EUROPE",
+			"type": "TRAVEL",
+			"main_img": "2010CORSICA.jpg",
+			"places": [ "AJACCIO", "BAVELLA", "VIZZANOVA" ],
+			"facts": [ "GR20 South hike" ]
+		},
+		{
+			"code": "2009SOUTHAFRICA",
+			"year": 2009,
+			"month": 9,
+			"duration": 3,
+			"abroad": true,
+			"title_fr": "Sud de l'Afrique",
+			"title_en": "South of Africa",
+			"countries": [ "SOUTH AFRICA", "NAMIBIA", "BOTSWANA", "ZIMBABWE" ],
+			"area": "AFRICA",
+			"type": "TRAVEL",
+			"main_img": "2009SOUTHAFRICA.jpg",
+			"places": [ "CAP-TOWN", "STRADFONTEIN", "FISH RIVER CANYON", "SESSRIEM", "GRASSLAND SAFARI", "OKAVANGO", "TSODILO HILLS", "CHOBE", "VICTORIA FALLS" ],
+			"facts": [ "Pet a cheetah", "Walk on Elim dunes", "Walk among the wild dogs", "Campsite in Okavango", "Helicopter flight over the Victoria falls" ]
+		},
+		{
+			"code": "2008QUEBEC",
+			"year": 2008,
+			"month": 7,
+			"duration": 3,
+			"abroad": true,
+			"title_fr": "Québec (Canada)",
+			"title_en": "Quebec (Canada)",
+			"countries": [ "CANADA" ],
+			"area": "NORTH AMERICA",
+			"type": "TRAVEL",
+			"main_img": "2008QUEBEC.jpg",
+			"places": [ "QUEBEC", "MONTREAL", "TADOUSSAC", "LAKE SAINT-JEAN", "TROIS-RIVIERES" ],
+			"facts": [ "Night in a tepee", "Fire on boat" ]
+		},
+		{
+			"code": "2007ECUADOR",
+			"code": "2007",
+			"year": 2007,
+			"month": 8,
+			"duration": 3,
+			"abroad": true,
+			"title_fr": "Equateur",
+			"title_en": "Ecuador",
+			"countries": [ "ECUADOR" ],
+			"area": "SOUTH AMERICA",
+			"type": "TRAVEL",
+			"main_img": "2007ECUADOR.jpg",
+			"places": [ "QUITO", "CUENCA", "AMAZONIA", "QUILITOA" ],
+			"facts": [ "See a volcano in activity", "Walk in the amazonia forest", "Walk on Chimborazo volcano (unactive)", "Cross equator ligne" ]
+		},
+		{
+			"code": "2006KENYA",
+			"year": 2006,
+			"month": 7,
+			"duration": 3,
+			"abroad": true,
+			"title_fr": "Kenya & Tanzanie",
+			"title_en": "Kenya & Tanzania",
+			"countries": [ "KENYA", "TANZANIA" ],
+			"area": "AFRICA",
+			"type": "TRAVEL",
+			"main_img": "2006KENYA.jpg",
+			"places": [ "SERENGETI NATIONAL PARK", "AMBOSELI NATIONAL PARK", "NGORONGORO CONSERVATION AREA", "LAKE TURKANA", "MOUNT KENYA NATIONAL PARK", "VICTORIA LAKE", "TSAVO EAST NATIONAL PARK" ],
+			"facts": [ "Campsite in wildlife park", "Swim in lake Turkana with local people, even though there are crocodiles ;)", "Meet Masaï people", "Cross equator ligne" ]
+		},
+		{
+			"code": "2003MOROCCO",
+			"year": 2003,
+			"month": 8,
+			"duration": 3,
+			"abroad": true,
+			"title_fr": "Maroc",
+			"title_en": "Morocco",
+			"countries": [ "MOROCCO" ],
+			"area": "AFRICA",
+			"type": "TRAVEL",
+			"main_img": "2003MOROCCO.jpeg",
+			"places": [ "ATLAS", "MOUNT M'GOUN (4 068m)", "MARRAKECH" ],
+			"facts": [ "Hike two weeks in Atlas", "Mount M'Goun ascension (height difference 1 385m + and -) " ]
+		},
+		{
+			"code": "2001TIBET",
+			"year": 2001,
+			"month": 8,
+			"duration": 4,
+			"abroad": true,
+			"title_fr": "Tibet",
+			"title_en": "Tibet",
+			"countries": [ "NEPAL", "TIBET" ],
+			"area": "ASIA",
+			"type": "TRAVEL",
+			"main_img": "2001TIBET.jpg",
+			"places": [ "KATMANDU", "MOUNT KAILASH" ],
+			"facts": [ "Reach 5600m altitude by hike", "3 days hiking around Mount Kailash", "Sleep in a buddhist monastery near the mount Kailash", "Cross a big mudslide by foot", "Cross a river with a lot of water penetrating the car" ]
+		},
+		{
+			"code": "2000INDIA",
+			"year": 2000,
+			"month": 8,
+			"duration": 4,
+			"abroad": true,
+			"title_fr": "Inde",
+			"title_en": "India",
+			"countries": [ "INDIA" ],
+			"area": "ASIA",
+			"type": "TRAVEL",
+			"main_img": "2000INDIA.jpg",
+			"places": [ "NEW DELHI", "SRINAGAR", "LADAKH", "PADUM" ],
+			"facts": [ "Reach 5000m altitude by hike", "3 days hiking in Ladakh", "First travel abroad", "First plane flight" ]
+		}
+	]
+}
